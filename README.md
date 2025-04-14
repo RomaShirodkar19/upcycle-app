@@ -1,4 +1,4 @@
-# mpl_lab
+# Upcycle app
 
 A new Flutter project.
 
