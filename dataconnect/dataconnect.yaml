@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "mpllab"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "mpllab-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

@@ -1,0 +1,26 @@
+[
+    {
+      "address": "Anand Nagar, Thane",
+      "age": "2",
+      "condition": "Good",
+      "email": "bailurkar.bhakti@gmail.com",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfI2eoQ4fGsbLdDoVNCg1qb3X",
+      "name": "Bhakti Bailurkar",
+      "status": "Pending",
+      "statusUpdatedAt": "2025-03-25T05:41:20+05:30",
+      "thriftStoreId": "H7Gu7GtotRXVBellKo60Lk8uhYc2",
+      "timestamp": "2025-03-25T05:41:20+05:30"
+    },
+    {
+      "address": "Sector 15, Navi Mumbai",
+      "age": "1",
+      "condition": "Like New",
+      "email": "example@email.com",
+      "imageUrl": "https://example.com/image2.jpg",
+      "name": "Sample Donor",
+      "status": "Approved",
+      "statusUpdatedAt": "2025-03-26T10:15:30+05:30",
+      "thriftStoreId": "H7Gu7GtotRXVBellKo60Lk8uhYc2",
+      "timestamp": "2025-03-26T10:15:30+05:30"
+    }
+  ]
